@@ -1,2 +1,2 @@
-# OOPS-in-Python
-implementation of OOPS concepts in Python
+# OOPs-in-Python
+implementation of OOPs concepts in Python
